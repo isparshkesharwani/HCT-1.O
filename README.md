@@ -1,2 +1,2 @@
 # HCT-1.O
-HCT 1.O is a blog template and this is a free to use.
+Help of the Helpfull Coding Template 1.O Your will be create a blog website in a few minutes.
